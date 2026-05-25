@@ -1,0 +1,325 @@
+{
+  "sourceLanguage" : "ko",
+  "version" : "1.0",
+  "strings" : {
+    "HP" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "HP" }
+        },
+        "ko" : {
+          "stringUnit" : { "state" : "translated", "value" : "HP" }
+        }
+      }
+    },
+    "🌱" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "🌱" }
+        },
+        "ko" : {
+          "stringUnit" : { "state" : "translated", "value" : "🌱" }
+        }
+      }
+    },
+    "v1에서는 시간 설정만 저장됩니다. 실제 알림은 다음 업데이트." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "v1 only saves the time. Actual notifications come in the next update." }
+        },
+        "ko" : {
+          "stringUnit" : { "state" : "translated", "value" : "v1에서는 시간 설정만 저장됩니다. 실제 알림은 다음 업데이트." }
+        }
+      }
+    },
+    "개인정보처리방침" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "Privacy Policy" }
+        },
+        "ko" : {
+          "stringUnit" : { "state" : "translated", "value" : "개인정보처리방침" }
+        }
+      }
+    },
+    "나의 다마고찌" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "MeTamagotchi" }
+        },
+        "ko" : {
+          "stringUnit" : { "state" : "translated", "value" : "나의 다마고찌" }
+        }
+      }
+    },
+    "도감" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "Collection" }
+        },
+        "ko" : {
+          "stringUnit" : { "state" : "translated", "value" : "도감" }
+        }
+      }
+    },
+    "리셋" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "Reset" }
+        },
+        "ko" : {
+          "stringUnit" : { "state" : "translated", "value" : "리셋" }
+        }
+      }
+    },
+    "리셋 (새 캐릭터 시작)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "Reset (Start a new character)" }
+        },
+        "ko" : {
+          "stringUnit" : { "state" : "translated", "value" : "리셋 (새 캐릭터 시작)" }
+        }
+      }
+    },
+    "리셋하시겠어요?" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "Reset?" }
+        },
+        "ko" : {
+          "stringUnit" : { "state" : "translated", "value" : "리셋하시겠어요?" }
+        }
+      }
+    },
+    "미달성" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "Locked" }
+        },
+        "ko" : {
+          "stringUnit" : { "state" : "translated", "value" : "미달성" }
+        }
+      }
+    },
+    "버전" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "Version" }
+        },
+        "ko" : {
+          "stringUnit" : { "state" : "translated", "value" : "버전" }
+        }
+      }
+    },
+    "베이비" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "Baby" }
+        },
+        "ko" : {
+          "stringUnit" : { "state" : "translated", "value" : "베이비" }
+        }
+      }
+    },
+    "설정" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "Settings" }
+        },
+        "ko" : {
+          "stringUnit" : { "state" : "translated", "value" : "설정" }
+        }
+      }
+    },
+    "습관 3개" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "3 Habits" }
+        },
+        "ko" : {
+          "stringUnit" : { "state" : "translated", "value" : "습관 3개" }
+        }
+      }
+    },
+    "시작하기" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "Start" }
+        },
+        "ko" : {
+          "stringUnit" : { "state" : "translated", "value" : "시작하기" }
+        }
+      }
+    },
+    "알" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "Egg" }
+        },
+        "ko" : {
+          "stringUnit" : { "state" : "translated", "value" : "알" }
+        }
+      }
+    },
+    "알림" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "Notifications" }
+        },
+        "ko" : {
+          "stringUnit" : { "state" : "translated", "value" : "알림" }
+        }
+      }
+    },
+    "알림 시간" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "Notification Time" }
+        },
+        "ko" : {
+          "stringUnit" : { "state" : "translated", "value" : "알림 시간" }
+        }
+      }
+    },
+    "앱 정보" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "About" }
+        },
+        "ko" : {
+          "stringUnit" : { "state" : "translated", "value" : "앱 정보" }
+        }
+      }
+    },
+    "어덜트" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "Adult" }
+        },
+        "ko" : {
+          "stringUnit" : { "state" : "translated", "value" : "어덜트" }
+        }
+      }
+    },
+    "예: 운동 30분" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "e.g. 30 min workout" }
+        },
+        "ko" : {
+          "stringUnit" : { "state" : "translated", "value" : "예: 운동 30분" }
+        }
+      }
+    },
+    "오늘의 습관 3개" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "Today's 3 habits" }
+        },
+        "ko" : {
+          "stringUnit" : { "state" : "translated", "value" : "오늘의 습관 3개" }
+        }
+      }
+    },
+    "이름" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "Name" }
+        },
+        "ko" : {
+          "stringUnit" : { "state" : "translated", "value" : "이름" }
+        }
+      }
+    },
+    "제목" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "Title" }
+        },
+        "ko" : {
+          "stringUnit" : { "state" : "translated", "value" : "제목" }
+        }
+      }
+    },
+    "차일드" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "Child" }
+        },
+        "ko" : {
+          "stringUnit" : { "state" : "translated", "value" : "차일드" }
+        }
+      }
+    },
+    "취소" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "Cancel" }
+        },
+        "ko" : {
+          "stringUnit" : { "state" : "translated", "value" : "취소" }
+        }
+      }
+    },
+    "캐릭터" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "Character" }
+        },
+        "ko" : {
+          "stringUnit" : { "state" : "translated", "value" : "캐릭터" }
+        }
+      }
+    },
+    "캐릭터, 습관, 체크 기록이 모두 삭제되고 새 캐릭터를 만들게 됩니다." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "Your character, habits, and check-ins will be deleted, and you'll start fresh with a new character." }
+        },
+        "ko" : {
+          "stringUnit" : { "state" : "translated", "value" : "캐릭터, 습관, 체크 기록이 모두 삭제되고 새 캐릭터를 만들게 됩니다." }
+        }
+      }
+    },
+    "틴" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "Teen" }
+        },
+        "ko" : {
+          "stringUnit" : { "state" : "translated", "value" : "틴" }
+        }
+      }
+    }
+  }
+}

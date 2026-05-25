@@ -1,10 +1,3 @@
-//
-//  MeTamagotchiApp.swift
-//  MeTamagotchi
-//
-//  Created by Eunmi Yoon on 5/25/26.
-//
-
 import SwiftUI
 import SwiftData
 
@@ -12,7 +5,10 @@ import SwiftData
 struct MeTamagotchiApp: App {
     var sharedModelContainer: ModelContainer = {
         let schema = Schema([
-            Item.self,
+            Character.self,
+            Habit.self,
+            CheckIn.self,
+            EvolutionLog.self,
         ])
         let modelConfiguration = ModelConfiguration(schema: schema, isStoredInMemoryOnly: false)
 
@@ -25,7 +21,7 @@ struct MeTamagotchiApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RootView()
         }
         .modelContainer(sharedModelContainer)
     }
