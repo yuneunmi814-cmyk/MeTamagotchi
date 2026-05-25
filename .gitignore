@@ -28,6 +28,10 @@ Carthage/Build/
 character_showcase.png
 *_showcase.png
 
+# App Store 제출용 스크린샷 (재생성 가능, App Store Connect에 이미 업로드됨)
+screenshots/
+screenshots_67/
+
 # Editor cruft
 *.swp
 .idea/
