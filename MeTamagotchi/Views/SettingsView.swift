@@ -93,8 +93,7 @@ struct SettingsView: View {
                 Spacer()
                 Text(appVersion).foregroundStyle(.secondary)
             }
-            // 출시 전 실제 정적 페이지 URL로 교체할 것 (Cloudflare Pages)
-            Link("개인정보처리방침", destination: URL(string: "https://example.com/metamagotchi/privacy")!)
+            Link("개인정보처리방침", destination: URL(string: "https://metamagotchi.pages.dev/privacy.html")!)
         }
     }
 
